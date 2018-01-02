@@ -23,6 +23,6 @@ video{
 
 @media (max-width: 700px){
     video{
-        width: 480; height: 480;
+        width: 280; height: 230;
     }
 }
