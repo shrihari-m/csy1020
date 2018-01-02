@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: black;
+    margin: 0;
+    padding: 1em;
+}
+header h1{
+    color: white;
+    font-family: "Merriweather", serif;
+    font-size: 32px;
+    font-weight: normal;
+
+}
+
+p{
+    padding: 1em;
+}
+video{
+    padding: 1em;
+}
